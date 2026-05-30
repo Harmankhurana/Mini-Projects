@@ -36,7 +36,7 @@ This is a collection of small web projects I've built while learning **HTML**, *
 
 - HTML5  
 - CSS3  
-- JavaScript (in some projects)  
+- JavaScript (in some projects)
 - VS Code  
 - Git & GitHub
 

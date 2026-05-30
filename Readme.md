@@ -34,10 +34,10 @@ This is a collection of small web projects I've built while learning **HTML**, *
 
 ## 🔧 Technologies Used
 
-- HTML5  
-- CSS3  
+- HTML5
+- CSS3
 - JavaScript (in some projects)
-- VS Code  
+- VS Code
 - Git & GitHub
 
 ---
@@ -54,4 +54,3 @@ These projects helped me:
 This is just the beginning — more projects coming soon!
 
 ---
-
